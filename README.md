@@ -82,24 +82,31 @@ plt.show()
 Displaying first few rows
 
 ![image](https://github.com/user-attachments/assets/abbcda4e-8979-431b-9aa3-3129980206f4)
+
 Checking data information and null values
 
 ![image](https://github.com/user-attachments/assets/b80f43e1-6a17-4044-92b6-a42fe5f2edf4)
+
 Viewing the distribution of target variable
 
 ![image](https://github.com/user-attachments/assets/bb0cf16f-35c8-428d-956a-344367b9c71e)
+
 Encoding the 'salary' column
 
 ![image](https://github.com/user-attachments/assets/38264c5c-3e88-4034-a2e8-9829c7f1a9cd)
+
 Training the Decision Tree model
 
 ![image](https://github.com/user-attachments/assets/892287e3-4048-487e-8c3c-ec575c11a3ee)
+
 Calculating accuracy
 
 ![image](https://github.com/user-attachments/assets/5428b7fc-0520-4b5f-979a-57d166a672c5)
+
 Predicting for a new sample input
 
 ![image](https://github.com/user-attachments/assets/45bf2e8c-54a1-4ef9-a842-3e4f8057b762)
+
 Visualisation
 
 ![image](https://github.com/user-attachments/assets/4908248b-a6b5-42f9-968a-2011bd24d91a)
